@@ -8,9 +8,10 @@ int fibo_array(int n);
 int main(){
 
 		
-	cout << "using recur: " << fibo_recursive(43);
-//	cout << "using arr: " <<  fibo_array(43);
-	
+//	cout << "using recur: " << fibo_recursive(43);
+	cout << "using arr: " <<  fibo_array(43);
+
+
 	cout << endl;
 	return 0;
 }

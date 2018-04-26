@@ -41,3 +41,8 @@ void printArr(int* arr, int size){
 		cout << arr[i] << " ";
 	cout << endl;
 }
+
+
+
+
+
